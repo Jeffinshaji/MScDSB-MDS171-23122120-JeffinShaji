@@ -16,3 +16,4 @@ Email :- jeffinshaji.s@msds.christuniversity.in
 |8.|03-10-23|lab08|write a program to implement a Stack class|https://github.com/Jeffinshaji/MScDSB-MDS171-23122120-Jeffin/blob/0aa5059413176c41d33dd0043d93bf684691cdf1/Lab08.py|
 |9.|10-10-23|lab09|write a program to create petstore class|https://github.com/Jeffinshaji/MScDSB-MDS171-23122120-Jeffin/blob/0aa5059413176c41d33dd0043d93bf684691cdf1/Lab09/Lab09.py|
 |10.|26-10-23|lab10|Create a Python Class for managing student details and marks|https://github.com/Jeffinshaji/MScDSB-MDS171-23122120-Jeffin/blob/8c8c808ad84be3950780db5c6acd304c100e8523/Lab10.ipynb
+
