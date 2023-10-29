@@ -16,5 +16,5 @@ Email :- jeffinshaji.s@msds.christuniversity.in
 |8.|03-10-23|lab08|write a program to implement a Stack class|https://github.com/Jeffinshaji/MScDSB-MDS171-23122120-JeffinShaji/blob/8415fb578a8d9c3545da473d073ba3276c285659/Lab/Lab08.py|
 |9.|10-10-23|lab09|write a program to create petstore class|https://github.com/Jeffinshaji/MScDSB-MDS171-23122120-JeffinShaji/blob/8415fb578a8d9c3545da473d073ba3276c285659/Lab/Lab09/Lab09.py|
 |10.|26-10-23|lab10|Create a Python Class for managing student details and marks|https://github.com/Jeffinshaji/MScDSB-MDS171-23122120-JeffinShaji/blob/8415fb578a8d9c3545da473d073ba3276c285659/Lab/Lab10.ipynb|
-|11.|19-09-23|CAC1|Recipe Finder|https://github.com/Jeffinshaji/MScDSB-MDS171-23122120-JeffinShaji/tree/8415fb578a8d9c3545da473d073ba3276c285659/CAC/CAC1|
-|12.|25-10-23|CAC2|Network Issue|https://github.com/Jeffinshaji/MScDSB-MDS171-23122120-JeffinShaji/tree/8415fb578a8d9c3545da473d073ba3276c285659/CAC/CAC2|
+|11.|19-09-23|CAC1|Recipe Finder|https://github.com/Jeffinshaji/MScDSB-MDS171-23122120-JeffinShaji/blob/1c9c509ec65ff038f33237cbe1a8a0072bd4fdb9/CAC/CAC1/Assignment%20recipe%20finder.ipynb|
+|12.|25-10-23|CAC2|Network Issue|https://github.com/Jeffinshaji/MScDSB-MDS171-23122120-JeffinShaji/blob/1c9c509ec65ff038f33237cbe1a8a0072bd4fdb9/CAC/CAC2/CAC2.ipynb|
